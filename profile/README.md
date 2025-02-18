@@ -1,5 +1,7 @@
 ## Chobble.com
 
-An ethical web development agency - [chobble.com](https://chobble.com)
+I'm a freelance web designer / developer and tech consultant from Prestwich, Manchester, UK.
 
-This Github organisation mirrors repositories from the Chobble forge at [git.chobble.com](https://git.chobble.com/)
+My website is [chobble.com](https://chobble.com).
+
+I try and release everything I do as open source - and this is the Github mirror of my main Git forge at [git.chobble.com](https://git.chobble.com)
