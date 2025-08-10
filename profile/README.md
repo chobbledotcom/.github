@@ -1,6 +1,6 @@
 ## Chobble.com
 
-I'm a freelance web designer / developer and tech consultant from Prestwich, Manchester, UK.
+I'm a freelance Rails / Eleventy / web / software developer and tech consultant from Prestwich, Manchester, UK.
 
 My website is [chobble.com](https://chobble.com).
 
